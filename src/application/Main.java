@@ -6,7 +6,7 @@ public class Main  {
 		
 		Endereco end = new Endereco ();
 		
-		end.setLogadouro("Rua dos Remédios 10");
+		end.setLogadouro("Rua dos Remedios 10");
 		
 		System.out.println(end.getLogadouro());
 		
