@@ -9,7 +9,7 @@ public class Endereco {
 	private static String log;
 	
 	// constante
-	private final String cidade = "Brasília"; // constante, sempre sera brasilia
+	private final String cidade = "Brasilia"; // constante, sempre sera brasilia
 	
 	
 	
